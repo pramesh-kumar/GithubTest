@@ -9,3 +9,16 @@ int main()
     cout << "Multiplication is " << (a * b) << endl;
     return 0;
 }
+
+/*
+
+git branch pramesh/division
+git checkout pramesh/division
+
+
+
+git checkout -b pramesh/division
+
+
+
+*/
