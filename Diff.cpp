@@ -6,6 +6,6 @@ int main()
     int a = 20;
 
     int b = 40;
-    cout << (a - b) << endl;
+    cout << "Difference is " << (a - b) << endl;
     return 0;
 }
